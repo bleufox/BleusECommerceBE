@@ -24,13 +24,13 @@ HTML, CSS, JavaScript, jQuery
 ![Results](/images/results-page-screenshot.png)
 
 ## Technologies Used
-* Javascript, HTML, CSS
+* 
 
 ## Repository
-* GitHub Repo: https://github.com/bleufox/BleusECommerceBE
+[GitHub Repo](https://github.com/bleufox/BleusECommerceBE)
 
 ## Walkthrough Video
-* Loom: 
+[Loom Walkthrough Video]()
 
 ## Creator
 Ashley Jones, Full Stack Developer Student
