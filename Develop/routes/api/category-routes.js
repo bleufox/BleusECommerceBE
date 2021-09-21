@@ -32,7 +32,6 @@ router.get('/:id', async (req, res) => {
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(500).json(err);
-    //Should the status error code above be 500 or 400?
   }
 
 });
@@ -50,7 +49,7 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
   // update a category by its `id` value
-  
+
   try {
     const categoryData = await Category.update(req.body, {
       where: {
