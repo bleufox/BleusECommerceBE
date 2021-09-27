@@ -55,9 +55,6 @@ router.post('/', async (req, res) => {
       if (req.body.tagIds.length) {
         const productTagIdArr = req.body.tagIds.map((tag_id) => {
           return {
-            product_name,
-            price,
-            stock,
             product_id: product.id,
             tag_id,
           };
