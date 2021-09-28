@@ -16,15 +16,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Technologies Used
-HTML, CSS, JavaScript, jQuery
+JavaScript, Insomnia
 
 ## Screenshots
-![BookSearch](/images/book-search-screenshot.png)
-![Recommended Apps](/images/recommended-apps-screenshot.png)
-![Results](/images/results-page-screenshot.png)
-
-## Technologies Used
-* 
+![GET Request](develop/images/get.png)
 
 ## Repository
 [GitHub Repo](https://github.com/bleufox/BleusECommerceBE)
