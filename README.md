@@ -25,7 +25,7 @@ JavaScript, Insomnia
 [GitHub Repo](https://github.com/bleufox/BleusECommerceBE)
 
 ## Walkthrough Video
-[Loom Walkthrough Video]()
+[Loom Walkthrough Video](https://www.loom.com/share/21b8d0cbda9e4cf7bf46900180fd0e03)
 
 ## Creator
 Ashley Jones, Full Stack Developer Student
