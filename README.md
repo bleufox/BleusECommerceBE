@@ -19,7 +19,7 @@ THEN I am able to successfully create, update, and delete data in my database
 JavaScript, Insomnia
 
 ## Screenshots
-![GET Request](develop/images/get.png)
+![GET Request](/develop/images/get.png)
 
 ## Repository
 [GitHub Repository](https://github.com/bleufox/BleusECommerceBE)
