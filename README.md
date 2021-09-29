@@ -22,7 +22,7 @@ JavaScript, Insomnia
 ![GET Request](develop/images/get.png)
 
 ## Repository
-[GitHub Repo](https://github.com/bleufox/BleusECommerceBE)
+[GitHub Repository](https://github.com/bleufox/BleusECommerceBE)
 
 ## Walkthrough Video
 [Loom Walkthrough Video](https://www.loom.com/share/21b8d0cbda9e4cf7bf46900180fd0e03)
